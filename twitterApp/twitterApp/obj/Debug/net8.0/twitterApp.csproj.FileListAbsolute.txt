@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\twitterApp\twitterApp\bin\Debug\net8.0\twitterApp.exe
+C:\Users\USER\Desktop\twitterApp\twitterApp\bin\Debug\net8.0\twitterApp.deps.json
+C:\Users\USER\Desktop\twitterApp\twitterApp\bin\Debug\net8.0\twitterApp.runtimeconfig.json
+C:\Users\USER\Desktop\twitterApp\twitterApp\bin\Debug\net8.0\twitterApp.dll
+C:\Users\USER\Desktop\twitterApp\twitterApp\bin\Debug\net8.0\twitterApp.pdb
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.dll
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\refint\twitterApp.dll
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.pdb
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\twitterApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\twitterApp\twitterApp\obj\Debug\net8.0\ref\twitterApp.dll
